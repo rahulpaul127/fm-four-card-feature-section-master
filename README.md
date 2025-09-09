@@ -25,8 +25,8 @@ This is a solution to the [Four card feature section challenge](https://www.fron
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()  
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-Mn2Ll9Tn9R)  
+- Live Site URL: [GitHub Pages](https://rahulpaul127.github.io/fm-four-card-feature-section-master/)
 
 ---
 
